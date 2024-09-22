@@ -11,7 +11,7 @@ This forest inventory system includes six main features:
 	• Feature 1: Add New Trees 
  Users can add a new tree by entering attributes such as genus, species, diameter, height, and age. The system automatically generates a unique tree ID and calculates the tree’s volume using a simplified volume formula.
  
-	• Feature 2: Display Tree Inventory)
+	• Feature 2: Display Tree Inventory
  The system displays all trees in the inventory with options to filter by specific attributes like genus, species, or age. This feature ensures easy navigation and quick retrieval of relevant data.
  
 	• Feature 3: Edit Tree Data 

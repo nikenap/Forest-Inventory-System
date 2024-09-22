@@ -28,15 +28,15 @@ This forest inventory system includes six main features:
 
  ## Technical Highlights
 
-	•	ID Generation:
+	• ID Generation:
 Each tree is automatically assigned a unique ID based on the first three letters of its genus and species, followed by a sequential number to ensure that each ID is distinct.
 
-	•	Volume Calculation:
+	• Volume Calculation:
 Tree volume is calculated using the formula:
 Volume = 0.25 × π × (diameter² / 10000) × height
 This provides a basic estimate of tree volume in cubic meters, aiding in forestry resource assessments.
 
-	•	Input Validation:
+	• Input Validation:
 The system includes robust input validation for string, integer, and float inputs to ensure that only valid data is stored in the inventory. This improves the integrity of the system and prevents errors caused by incorrect data entries.
 
 ## Project Objective

@@ -4,7 +4,7 @@ This system is designed to efficiently manage tree inventories in a forest plant
 
 The primary objective of this project is to streamline forest data management processes while providing insightful analyses to support decision-making regarding forest conditions and growth.
 
-# Key Features
+## Key Features
 
 This forest inventory system includes six main features:
 
@@ -26,7 +26,7 @@ This forest inventory system includes six main features:
 	• Feature 6: Exit Program 
  Users can exit the program at any time, with their data being preserved until the next session.
 
- # Technical Highlights
+ ## Technical Highlights
 
 	•	ID Generation:
 Each tree is automatically assigned a unique ID based on the first three letters of its genus and species, followed by a sequential number to ensure that each ID is distinct.
@@ -39,7 +39,7 @@ This provides a basic estimate of tree volume in cubic meters, aiding in forestr
 	•	Input Validation:
 The system includes robust input validation for string, integer, and float inputs to ensure that only valid data is stored in the inventory. This improves the integrity of the system and prevents errors caused by incorrect data entries.
 
-# Project Objective
+## Project Objective
 
 This project was developed as part of a capstone requirement for the Digital Talent Incubator Data Science and Machine Learning program at Purwadhika Digital Technology School. The aim was to create a functional and efficient tree inventory management system that automates data handling while incorporating fundamental concepts of data science and software development.
 

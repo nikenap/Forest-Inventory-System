@@ -32,8 +32,9 @@ This forest inventory system includes six main features:
 Each tree is automatically assigned a unique ID based on the first three letters of its genus and species, followed by a sequential number to ensure that each ID is distinct.
 
 	• Volume Calculation
-Tree volume is calculated using the formula:
+Tree volume is calculated using the simplified formula:
 Volume = 0.25 × π × (diameter² / 10000) × height
+
 This provides a basic estimate of tree volume in cubic meters, aiding in forestry resource assessments.
 
 	• Input Validation

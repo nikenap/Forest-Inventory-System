@@ -297,7 +297,7 @@ def menu_4():
         
         if choice == '1':
             # Delete a specific tree
-            tree_id = get_string_input("Enter Tree ID to delete: ").upper()
+            tree_id = get_string_int_input("Enter Tree ID to delete: ").upper()
             if tree_id in forest:
                 # Display the tree to be deleted
                 print_tree(tree_id, forest[tree_id])
@@ -319,6 +319,7 @@ def menu_4():
         else:
             print("\nInvalid choice. Please enter a valid number (1-2).")
 
+# Funtion for Menu 5: Display Statistics Summary
 def menu_5():
     while True:
         print("\nMENU 5: ")
